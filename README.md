@@ -1,2 +1,2 @@
-# simple_rap_app
+# Simple RAP App
 A very simple RAP (RESTFul ABAP Programming) App
