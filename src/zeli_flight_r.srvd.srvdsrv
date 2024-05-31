@@ -1,0 +1,4 @@
+@EndUserText.label: '''Read Only E2E: SD for Managing Flights'''
+define service ZELI_FLIGHT_R {
+  expose ZELI_CONNECTION_R as Connection;
+}
